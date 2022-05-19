@@ -1,0 +1,8 @@
+version: "3.9"
+services:
+  web:
+    image: "ghcr.io/fillout/fillout-agent:latest"
+    env_file: ./docker.env
+    ports:
+      - "2502:2502"
+    command: "/bin/sh ./start.sh"
