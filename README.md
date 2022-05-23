@@ -52,7 +52,7 @@ DB_PORT=<optional-postgres-port>
 
 2. Clone this Github repository: `git clone https://github.com/onpremise-agent/agent`
 
-3. `cd onpremise-agent`
+3. `cd agent`
 
 4. Create a new app on Aptible `aptible apps:create <app-name>`
 
