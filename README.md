@@ -48,6 +48,8 @@ DB_PORT=<optional-postgres-port>
 
 ## Aptible
 
+Video walkthrough: https://www.loom.com/share/2a41320a744149b8af6a77e46356f978
+
 1. Install the Aptible CLI and authenticate into your account with `aptible login`.
 
 2. Clone this Github repository: `git clone https://github.com/onpremise-agent/agent`
